@@ -17,7 +17,7 @@ $ php artisan serve
 **Now Create Something Awesome With It And Make World Better Place !**
 
 ### Issues
-**if you find Any Issue Or Have Advise For It . just open a issue**
+**if you find Any Issue Or Have Advise For It feel free just open an issue**
 
 # LICENSE 
 #### MIT

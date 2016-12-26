@@ -1,5 +1,6 @@
 # Laravel-Materialize
 A Laravel Boilerplate Using Materialize-CSS instead Bootstrap &lt;3
+Demo : [Materialize-Laravel](https://dry-depths-49992.herokuapp.com/)
 
 How To Use : 
 ```
